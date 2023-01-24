@@ -1,2 +1,1 @@
-# elyoda
-A Test Repository
+This is my learn git basics.
